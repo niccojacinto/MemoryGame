@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: adc2d65425c13624eb9855d8359d3a0b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Beaufort for LOL
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2154c9aaf9011794d9dd3e724f99544b, type: 3}
+  - {fileID: 12800000, guid: baa552934b0011344a6780948b89dd4d, type: 3}
+  - {fileID: 12800000, guid: b24a7bd2ccff12c49a61893c9f9358db, type: 3}
+  - {fileID: 12800000, guid: ba6f3c5224af99f428709f41e4cc278d, type: 3}
+  - {fileID: 12800000, guid: 8d9929072b11f5f44a32c2c1b184350c, type: 3}
+  - {fileID: 12800000, guid: ac5acd233ec9c1a4a92c9c7ae7e3885e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
